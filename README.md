@@ -1,2 +1,2 @@
 # MarkdownPhoto
-## This is a photo album for writing markdown. Good
+## This is a photo album for writing markdown. 
